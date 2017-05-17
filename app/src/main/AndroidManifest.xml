@@ -22,7 +22,7 @@
         <activity android:name=".AbsoluteLayoutActivity" />
         <activity android:name=".FrameLayoutActivity" />
         <activity android:name=".ListViewActivity" />
-        <activity android:name=".GridViewActivity"></activity>
+        <activity android:name=".GridViewActivity" />
     </application>
 
 </manifest>
