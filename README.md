@@ -1,4 +1,5 @@
 # AndroidLayout
+This source code provides example for Android Layout.
 
 ##FAQ/CONTACT/TROUBLESHOOT
 Mohammad Nurdin bin Norazan
